@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR4i0009_000-WYG.yaml, hash: 'sha256:6c18580d51abc40fe66c42f97b9e07062cd98e6a1387588a01ed14c9aa63821c'}
   - {seq: 1, filename: KR4i0009_001-WYG.yaml, hash: 'sha256:33ee7b1ba3f0b49b58897f15874e2cc009b5a2e071230a152dc6eb86185f1d07'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0009_000-WYG.markers.yaml, hash: 'sha256:0cab4a9e81df7e7af913c270640fb051a17e9f7f90b010b13859eb11abcf1f54'}
+  - {seq: 0, role: markers, filename: assets/KR4i0009_000-WYG.markers.yaml, hash: 'sha256:b6ec739f7189a87401161fd89d526ecf9bf0cf6b0d424890c18bee549f65b649'}
   - {seq: 1, role: markers, filename: assets/KR4i0009_001-WYG.markers.yaml, hash: 'sha256:2e69735bb497357e00b13705eb04e468c7b6e509feaf9a6e112813c797b026e9'}
 table_of_contents:
 - ref:
@@ -43,4 +43,4 @@ table_of_contents:
   label: 後山詩話
   type: section
   level: 1
-hash: sha256:b7316838ef8645d5718b228a384fa0b3b56fd6d178bf04f4507ecb7607761be0
+hash: sha256:23bd19cfffaf13fddedb50c4bbe0e945c20cd7f7f176bfefa6c40f7d0e422a61

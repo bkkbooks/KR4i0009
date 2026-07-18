@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR4i0009_000.yaml, hash: 'sha256:8b2532daba0e7dbdeadb44270243bd9b3b3d5a4cfda6ff60fca53047d9ad6080'}
   - {seq: 1, filename: KR4i0009_001.yaml, hash: 'sha256:b1b37a03e7f3a53c2113bd2c14c3df48e43114a84d94ff1395331e49a88368a7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0009_000.markers.yaml, hash: 'sha256:1de71ea84e40efdcc33191a89a1430d7e4d234ddf9208258970c987e4f00ea80'}
+  - {seq: 0, role: markers, filename: assets/KR4i0009_000.markers.yaml, hash: 'sha256:8095c0379ffb274bbc0cf3fedc7627e1102cb4892e7931b7ba13ed1466780424'}
   - {seq: 1, role: markers, filename: assets/KR4i0009_001.markers.yaml, hash: 'sha256:4f4ebdc44fc9862d79668b1561d7224bf16e29d4f7f3bf15d5a48561d87ce082'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 後山詩話
   type: section
   level: 1
-hash: sha256:ee132a302b846fd0e4180ae2467fb53baba1a68cdd897c97cb761866e37d0c59
+hash: sha256:86338144eca0a65a68a06a772e23b1d5ba86d58dd878ce3a4c1614e46b86a752
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
